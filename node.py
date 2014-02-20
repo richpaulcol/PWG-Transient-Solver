@@ -7,4 +7,4 @@ class node:
 		
 		print self.test
 		
-	
+		print 'Hello'
