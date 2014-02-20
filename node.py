@@ -4,3 +4,7 @@ import pylab as pp
 class node:
 	def __init__ (self,A):
 		self.test = A
+		
+		print self.test
+		
+	
