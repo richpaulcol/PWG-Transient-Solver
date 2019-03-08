@@ -2,7 +2,6 @@ PWG-Transient-Solver
 
 Here is some basic file information about the aims of this file.
 
-Cheers
+The structure is an attmept to replicate the EPAnet-dev C++ version (or similar) and organise the program so that it is more modular and easier to develop new implementations. 
 
-Rich
 
